@@ -1,7 +1,7 @@
 # Hyperparameter Optimization
 <hr>
 
-Studies any techniques for Hyperparameter Optimization in Machine learning.
+Studies about techniques for Hyperparameter Optimization in Machine learning.
 
 * GridSearchCV
 * Random Search - Skopt
@@ -9,3 +9,6 @@ Studies any techniques for Hyperparameter Optimization in Machine learning.
 
 
 <br>
+
+
+![alt text](https://miro.medium.com/max/571/1*5mStLTnIxsANpOHSwAFJhg.png)
